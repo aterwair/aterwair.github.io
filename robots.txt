@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aterwair.github.io/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/app/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/assets/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/css/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/data/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/includes/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/item/sitemap.aterwair.gz
+Sitemap: https://aterwair.github.io/src/sitemap.aterwair.gz
